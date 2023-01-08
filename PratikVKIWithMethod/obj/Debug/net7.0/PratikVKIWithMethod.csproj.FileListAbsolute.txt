@@ -1,0 +1,15 @@
+D:\KADİR\YAZILIM\C#\Coder2\1-Programlamaya Giriş\Ödevler\050123VKI\PratikVKIWithMethod\PratikVKIWithMethod\bin\Debug\net7.0\PratikVKIWithMethod.exe
+D:\KADİR\YAZILIM\C#\Coder2\1-Programlamaya Giriş\Ödevler\050123VKI\PratikVKIWithMethod\PratikVKIWithMethod\bin\Debug\net7.0\PratikVKIWithMethod.deps.json
+D:\KADİR\YAZILIM\C#\Coder2\1-Programlamaya Giriş\Ödevler\050123VKI\PratikVKIWithMethod\PratikVKIWithMethod\bin\Debug\net7.0\PratikVKIWithMethod.runtimeconfig.json
+D:\KADİR\YAZILIM\C#\Coder2\1-Programlamaya Giriş\Ödevler\050123VKI\PratikVKIWithMethod\PratikVKIWithMethod\bin\Debug\net7.0\PratikVKIWithMethod.dll
+D:\KADİR\YAZILIM\C#\Coder2\1-Programlamaya Giriş\Ödevler\050123VKI\PratikVKIWithMethod\PratikVKIWithMethod\bin\Debug\net7.0\PratikVKIWithMethod.pdb
+D:\KADİR\YAZILIM\C#\Coder2\1-Programlamaya Giriş\Ödevler\050123VKI\PratikVKIWithMethod\PratikVKIWithMethod\obj\Debug\net7.0\PratikVKIWithMethod.csproj.AssemblyReference.cache
+D:\KADİR\YAZILIM\C#\Coder2\1-Programlamaya Giriş\Ödevler\050123VKI\PratikVKIWithMethod\PratikVKIWithMethod\obj\Debug\net7.0\PratikVKIWithMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\KADİR\YAZILIM\C#\Coder2\1-Programlamaya Giriş\Ödevler\050123VKI\PratikVKIWithMethod\PratikVKIWithMethod\obj\Debug\net7.0\PratikVKIWithMethod.AssemblyInfoInputs.cache
+D:\KADİR\YAZILIM\C#\Coder2\1-Programlamaya Giriş\Ödevler\050123VKI\PratikVKIWithMethod\PratikVKIWithMethod\obj\Debug\net7.0\PratikVKIWithMethod.AssemblyInfo.cs
+D:\KADİR\YAZILIM\C#\Coder2\1-Programlamaya Giriş\Ödevler\050123VKI\PratikVKIWithMethod\PratikVKIWithMethod\obj\Debug\net7.0\PratikVKIWithMethod.csproj.CoreCompileInputs.cache
+D:\KADİR\YAZILIM\C#\Coder2\1-Programlamaya Giriş\Ödevler\050123VKI\PratikVKIWithMethod\PratikVKIWithMethod\obj\Debug\net7.0\PratikVKIWithMethod.dll
+D:\KADİR\YAZILIM\C#\Coder2\1-Programlamaya Giriş\Ödevler\050123VKI\PratikVKIWithMethod\PratikVKIWithMethod\obj\Debug\net7.0\refint\PratikVKIWithMethod.dll
+D:\KADİR\YAZILIM\C#\Coder2\1-Programlamaya Giriş\Ödevler\050123VKI\PratikVKIWithMethod\PratikVKIWithMethod\obj\Debug\net7.0\PratikVKIWithMethod.pdb
+D:\KADİR\YAZILIM\C#\Coder2\1-Programlamaya Giriş\Ödevler\050123VKI\PratikVKIWithMethod\PratikVKIWithMethod\obj\Debug\net7.0\PratikVKIWithMethod.genruntimeconfig.cache
+D:\KADİR\YAZILIM\C#\Coder2\1-Programlamaya Giriş\Ödevler\050123VKI\PratikVKIWithMethod\PratikVKIWithMethod\obj\Debug\net7.0\ref\PratikVKIWithMethod.dll
